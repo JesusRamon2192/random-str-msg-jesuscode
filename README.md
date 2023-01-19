@@ -16,7 +16,7 @@ npm install -g random-str-msg-jesuscode
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/gndx/random-str-msg-jesuscode)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg-jesuscode](https://github.com/gndx/random-str-msg-jesuscode)
 
 # License
 
