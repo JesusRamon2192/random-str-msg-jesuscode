@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-jesuscode",
+  "version": "1.0.0",
+  "description": "Random String Mesages.. Este sera un paquete que se posteara en npmjs.com para mandar mensajes aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusRamon2192/random-str-msg-jesuscode.git"
+  },
+  "keywords": [],
+  "author": "Jesus Arnoldo Ramon Oyervides <jesus.ramon2192@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesusRamon2192/random-str-msg-jesuscode/issues"
+  },
+  "homepage": "https://github.com/JesusRamon2192/random-str-msg-jesuscode#readme",
+  "bin": {
+    "random-str-msg-jesuscode": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
